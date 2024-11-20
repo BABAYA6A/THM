@@ -1,0 +1,39 @@
+Task 1 : DOWNLOAD IMAGE
+
+Download the task files
+
+Question 1: No Answer needed
+TASK 2 : INFORMATION GATHERING FROM A IMAGE
+
+use exiftool on the file
+
+exiftool spider-1732082360798.jpg
+
+Question 2: WHO IS THE AUTHOR OF THE IMAGE?
+
+Answer : *check exiftool output
+
+Question 3: WHAT IS THE FILE TYPE ?
+
+Answer : *check exiftool output
+
+Question 4 : COPYRIGHT BELONGS TO??
+
+Answer : *check exiftool output
+TASK 3 : DEEP TO THE IMAGE
+
+Use stegseek tool on the image file.
+
+stegseek spider-1732082360798.jpg
+
+Question 5 : WHICH TOOL YOU HAVE BEEN USED?
+
+Answer : *above used tool
+
+Question 6 : WHAT IS THE PASS PHRASE
+
+Answer :*check the output
+
+Question 7 : FLAG ??
+
+Answer : *use cat tool on the secret file
